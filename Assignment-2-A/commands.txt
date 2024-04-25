@@ -1,6 +1,6 @@
 Shewale Kunal Popat@DESKTOP-NJJQASU MINGW64 ~/OneDrive/Desktop/WAD-Practical
 $ git init
-Initialized empty Git repository in C:/Users/Gaurav/Desktop/WAD Practical/.git/
+Initialized empty Git repository in C:/Users/Kunal/Desktop/WAD Practical/.git/
 
 Shewale Kunal Popat@DESKTOP-NJJQASU MINGW64 ~/OneDrive/Desktop/WAD-Practical (master)
 $ git status
@@ -37,18 +37,18 @@ $ git commit -m "Setup of the folder"
  create mode 100644 Assignment 1/Information.docx
 
 Shewale Kunal Popat@DESKTOP-NJJQASU MINGW64 ~/OneDrive/Desktop/WAD-Practical (master)
-$ git remote add origin https://github.com/gauravfate/WAD-Practical.git
+$ git remote add origin https://github.com/Kunalfate/WAD-Practical.git
 
 Shewale Kunal Popat@DESKTOP-NJJQASU MINGW64 ~/OneDrive/Desktop/WAD-Practical (master)
 $ git push -u origin main
 error: src refspec main does not match any
-error: failed to push some refs to 'https://github.com/gauravfate/WAD-Practical.git'
+error: failed to push some refs to 'https://github.com/Kunalfate/WAD-Practical.git'
 
 Shewale Kunal Popat@DESKTOP-NJJQASU MINGW64 ~/OneDrive/Desktop/WAD-Practical (master)
 $ git branch -M main
 
 Shewale Kunal Popat@DESKTOP-NJJQASU MINGW64 ~/OneDrive/Desktop/WAD-Practical (main)
-$ git remote add origin https://github.com/gauravfate/WAD-Practical.git
+$ git remote add origin https://github.com/Kunalfate/WAD-Practical.git
 error: remote origin already exists.
 
 Shewale Kunal Popat@DESKTOP-NJJQASU MINGW64 ~/OneDrive/Desktop/WAD-Practical (main)
@@ -59,6 +59,6 @@ Delta compression using up to 4 threads
 Compressing objects: 100% (2/2), done.
 Writing objects: 100% (4/4), 283 bytes | 283.00 KiB/s, done.
 Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/gauravfate/WAD-Practical.git
+To https://github.com/Kunalfate/WAD-Practical.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
